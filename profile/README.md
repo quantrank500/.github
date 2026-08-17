@@ -43,7 +43,7 @@ never stored, never edited.
 sales, comments, badges, follower counts. A public record. Nothing more.
 
 **Licensing:** code MIT · published ledger data CC0 (public domain).
-The platform code opens with the public launch.
+The platform code: [quantrank500/quantrank500](https://github.com/quantrank500/quantrank500).
 
 <div align="center">
 
